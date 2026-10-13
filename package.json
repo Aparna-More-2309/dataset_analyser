@@ -1,0 +1,11 @@
+{
+  "name": "dataset-any-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix dataset_analyser run dev",
+    "dev:web": "npm --prefix dataset_analyser run dev:web",
+    "dev:api": "npm --prefix dataset_analyser run dev:api",
+    "build": "npm --prefix dataset_analyser run build",
+    "start": "npm --prefix dataset_analyser run start"
+  }
+}
