@@ -13,7 +13,6 @@ import {
   Loader2,
   Plus,
   RefreshCw,
-  Settings2,
   ShieldCheck,
   Sparkles,
   Table2,
@@ -1378,7 +1377,6 @@ function App() {
     ["Data profile", BarChart3],
     ["Quality checks", ShieldCheck],
     ["Connections", Link2],
-    ["Settings", Settings2],
   ];
   return (
     <div className='min-h-screen lg:grid lg:grid-cols-[240px_minmax(0,1fr)_320px]'>
